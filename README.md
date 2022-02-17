@@ -1,5 +1,5 @@
 # Lazy-Load
-Lazy Load con Intersection
+Lazy Load con Intersection Observer
 
 
 Simulando ser una pagina de publicaciones, se puede ver como a medida que hacemos scroll se van cargando nuevas publicaciones
